@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: DrunkXiao
+disqus_username:
 
 # Netease settings
 netease_comment: false
@@ -74,8 +74,8 @@ ga_domain: drunkxiao.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/DrunkXiaopro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "与你一起发现更大的世界"
+sidebar-avatar: https://github.com/drunkxiao.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
