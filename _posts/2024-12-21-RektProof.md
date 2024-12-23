@@ -3,8 +3,6 @@ layout:     post
 title:      "交易策略 风险管理 技术分析 情绪分析"
 subtitle:   "RektProof Setups"
 author:     "DrunkXiao"
-catalog: false
-published: false
 header-style: text
 tags:
   - 交易策略
