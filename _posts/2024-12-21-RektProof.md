@@ -46,5 +46,4 @@ tags:
 - **出场点**：在达到预设的止盈点或市场出现反转信号时。
 
 通过以上步骤，交易者可以更有效地利用 RektProof Setups 来进行交易决策。
-
-<embed src="/_doc/RektProof.pdf" type="application/pdf" width="100%" height="100%">
+![OTE](../img/hq987.jpg)
