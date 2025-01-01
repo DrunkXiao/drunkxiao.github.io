@@ -20,11 +20,10 @@
 ## 联系我
 如果你有任何问题或者合作意向，欢迎通过以下方式联系我：
 - **邮箱**: 24064982@qq.com
-- **社交媒体**: [微博](#) | [Instagram](#)
+- **社交媒体**: [我的博客](https://drunkxiao.us.kg)
+- **应用项目**: <a href="https://ai.trunkx.us.kg" target="_blank" rel="noopener">AI绘图创作平台 </a>
 
-## AI生成
-
-|<a href="https://girl.trunkx.us.kg" target="_blank" rel="noopener">美女</a>|<a href="https://fengjing.trunkx.us.kg" target="_blank" rel="noopener">风景</a>|<a href="https://cat.trunkx.us.kg" target="_blank" rel="noopener">朋克猫</a>|<a href="https://drunkxiao.us.kg" target="_blank" rel="noopener">我的博客</a>|
+![mm](https://pic.foxhank.top/file/1735739549908_image.png)
 
 ---
 
