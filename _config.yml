@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: xizhongxiao83@gmail.com
 description: "与你一起发现更大的世界"
 keyword: "博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://trunkx.us.kg" # your host, for absolute URL
+url: "https://tekk.us.kg" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: drunkxiao.github.io
+ga_domain: tekk.us.kg
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
