@@ -1,9 +1,9 @@
 {
     "name": "DrunkXiao-blog",
     "title": "DrunkXiao Blog",
-    "author": "DrunkXiao <DrunkXiao@gmail.com>",
+    "author": "DrunkXiao <drunkxiao@gmail.com>",
     "version": "1.8.2",
-    "homepage": "http://DrunkXiao.github.io",
+    "homepage": "http://tekk.us.kg",
     "repository": {
         "type": "git",
         "url": "https://github.com/DrunkXiao/DrunkXiao.github.io"
